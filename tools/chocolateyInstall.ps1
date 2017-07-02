@@ -1,0 +1,1 @@
+﻿Install-ChocolateyZipPackage -PackageName 'gifcam' -Url 'http://www.bahraniapps.com/apps/gifcam/gifcam.php' -UnzipLocation "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)" -Checksum 'B211241C95E70250F309757E127A13BEDCCFD28EACC1E2666AAA38E9C8F1CCD5' -ChecksumType 'sha256'
