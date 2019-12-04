@@ -7,7 +7,7 @@
     <authors>BahraniApps</authors>
     <owners>mnowacki</owners>
     <projectUrl>http://blog.bahraniapps.com/gifcam/</projectUrl>
-    <iconUrl>http://blog.bahraniapps.com/wp-content/uploads/2013/03/gifcamicon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/mnowacki/gifcam-chocolatey.org/251833cf94569813f9edd66e60c61dc5e5a4f9f7/img/gifcamicon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>GifCam has a nice idea where the app works like a camera that stays on top of all windows so you can move it and resize it to record your desired area.</description>
     <summary>GifCam is easy and fun animated gif making app</summary>
