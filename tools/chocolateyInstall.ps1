@@ -6,7 +6,7 @@ $packageArgs = @{
   packageName    = 'gifcam'
   url            = 'http://www.bahraniapps.com/apps/gifcam/gifcam.php'
   unziplocation  = "$toolsPath"
-  checksum       = '5B45FDDD87F50436613E40170291836603727E507696C3D7F0839917ECACDD3B'
+  checksum       = '036F7C2B30E2C1DC5D57D62CE1F4A6EA6089E256C3F6824F8670053C0890C82A'
   checksumtype   = 'sha256'
 }
 
